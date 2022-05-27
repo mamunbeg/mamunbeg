@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mamunbeg
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... nothing for now (I'm still learning)
 - 📫 How to reach me ... twitter @mamunbeg
 
 <!---
