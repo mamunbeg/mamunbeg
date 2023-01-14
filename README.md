@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mamunbeg
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python and Powershell
 - 💞️ I’m looking to collaborate on ... nothing for now (I'm still learning)
 - 📫 How to reach me ... twitter @mamunbeg
 
