@@ -7,7 +7,7 @@
 
 Learning to code
 
-I first tried to program in BASIC on an Atari 800XL in the 80's and then in PASCAL in the 90's but haven't been back since.
+I first tried to program in Atari BASIC in the 80's and then in Turbo PASCAL in the 90's but haven't been back since.
 Maybe modern tools will be easier to learn.
 
 
